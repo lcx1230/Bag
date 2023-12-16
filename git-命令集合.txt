@@ -1,0 +1,10 @@
+1.首先利用git clone+url克隆仓库。
+2.然后暂存到本地仓库git add .
+3.提交文件到本地仓库git commit -m"自己随意添加"
+4.git push origin +分支名称
+
+
+
+git remote remove origin移除远程仓库
+建立连接git remote add origin git@github.com:用户名/仓库名.git
+git remote -v查看远程仓库是否建立连接
